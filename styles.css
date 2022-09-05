@@ -1,0 +1,163 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Noto Sans", sans-serif;
+}
+
+/* Clear floats after the columns */
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.header {
+  margin: 40px 0;
+}
+
+.h1-1 {
+  text-align: center;
+  color: #04aa6d;
+  font-size: 32px;
+}
+.h5-1 {
+  text-align: center;
+  font-size: 18px;
+}
+.section-1 {
+  padding: 80px 0px;
+  width: 100%;
+  background-color: #282a35;
+  color: white;
+  margin: 16px 0;
+}
+.div-1 {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+.h1-2 {
+  font-size: 100px;
+}
+.h5-2 {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.a-1 {
+  border: none;
+  padding: 8px 16px;
+  overflow: hidden;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+  background-color: white;
+  color: black;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.a-2 {
+  border: none;
+  padding: 8px 16px;
+  overflow: hidden;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.div-2 {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+.img-1 {
+  width: 450px;
+}
+
+.section-2 {
+  padding: 80px 0px;
+  width: 100%;
+  background-color: #d9eee1;
+  color: black;
+  margin: 16px 0;
+}
+.div-3 {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+.img-2 {
+  width: 450px;
+}
+.div-4 {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+.h1-css {
+  font-size: 100px;
+}
+.h5-css {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.a-css {
+  border: none;
+  padding: 8px 16px;
+  overflow: hidden;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.a-css1 {
+  border: none;
+  padding: 8px 16px;
+  overflow: hidden;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.footer-1 {
+  text-align: center;
+  background-color: #282a35;
+  color: white;
+  padding: 40px 0;
+}
